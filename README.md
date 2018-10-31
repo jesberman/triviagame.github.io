@@ -9,3 +9,7 @@ The game begins after pressing the button on the initial screen.  After this, th
 If you'd like to try this program, please visit this site:
 
 https://jesberman.github.io/triviagame.github.io/
+
+You can also view an instructional video of how to use this application here:
+
+https://www.youtube.com/watch?v=LBmUzSgkYZY&feature=youtu.be
